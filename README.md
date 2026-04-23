@@ -14,6 +14,8 @@ Built as a headless API, it simultaneously streams multiple stations, ensuring t
 * 🛠️ **Lightweight Headless API:** Powered by Flask (utilized as a fast API layer) to serve audio streams directly to any client.
 * 🎛️ **Diagnostic Dashboard:** A built-in web UI for real-time monitoring of all active audio streams and current track states.
 
+  ![Dashboard](assets/photo_2026-04-24_01-18-03.jpg)
+
 ## 🚀 Roadmap
 * 📱 **Mobile Client:** Dedicated application for iOS/Android to tune into the live streams.
 * 🚗 **In-Car Integration:** Android Auto / Apple CarPlay compatibility to seamlessly integrate the live radio into real-world driving.
